@@ -1,7 +1,7 @@
 # CS 230 – Operating Platforms
 
 ## Reflection
-
+ 
 The Gaming Room wanted to expand their Android game Draw It or Lose It into a web-based application that supports multiple users and platforms. The goal was to design a scalable system.
 
 I did well in organizing the design document and explaining system architecture, requirements, and platform comparisons.
