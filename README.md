@@ -13,6 +13,3 @@ If I could improve one part, I would make the UML diagram clearer and easier to 
 I focused on user needs like scalability and usability because software must meet user expectations.
 
 I used object-oriented design and client-server architecture. In the future, I will continue using UML and cloud-based design approaches.
-
-## AI Acknowledgment
-This work was supported by ChatGPT to help organize and refine responses. All content reflects my understanding.
